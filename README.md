@@ -2,7 +2,7 @@
 
 ## Author: Jainam Kavaiya
 
-## Batch:May - July
+## Batch:MAY-JUNE
 
 ## Domain: Data Science
 
